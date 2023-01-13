@@ -12,13 +12,11 @@
 }
 
 body{
-    background: linear-gradient(
-        90deg,
-        rgb(43, 44, 44) 5%,
-        rgb(233, 236, 236) 95%
-    );
-
+    background: linear-gradient(90deg,rgb(43, 44, 44) 5%,rgb(233, 236, 236) 95%);
+    
     
 
 }
-
+.caixaTarefas{
+    text-align: center;
+}

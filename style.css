@@ -1,0 +1,24 @@
+.tituloProjeto{ 
+    text-align: center;
+    justify-content: center;
+    color: burlywood;
+}
+
+.caixa{
+
+
+    text-align: center;
+
+}
+
+body{
+    background: linear-gradient(
+        90deg,
+        rgb(43, 44, 44) 5%,
+        rgb(233, 236, 236) 95%
+    );
+
+    
+
+}
+

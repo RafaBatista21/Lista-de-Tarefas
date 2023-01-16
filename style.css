@@ -42,6 +42,10 @@ body{
 
  
 }
+.caixaTarefa input:focus {
+    outline: none;
+    border-color: #41b883;
+  }
 
 .caixaSegunda {
     background-color: palegoldenrod;
